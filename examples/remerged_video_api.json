@@ -1,0 +1,51 @@
+{
+  "prompt": {
+    "1": {
+      "class_type": "RemergedVideoGenerate",
+      "inputs": {
+        "prompt": "A hummingbird hovering at a red flower, slow motion",
+        "model": "seedance-2.5",
+        "duration_s": 5,
+        "aspect": "16:9",
+        "mode": "default",
+        "audio": true,
+        "seed": 0,
+        "use_seed": false,
+        "variations": 1,
+        "camera_fixed": false,
+        "negative_prompt": "",
+        "prompt_expansion": true,
+        "draft": false,
+        "image_urls": "",
+        "uploaded_inputs": "",
+        "extra_inputs": "",
+        "webhook_url": "",
+        "poll_interval": 10,
+        "timeout_minutes": 30,
+        "max_credits": 0,
+        "provider": "remerged",
+        "api_key": ""
+      }
+    },
+    "2": {
+      "class_type": "RemergedQuote",
+      "inputs": {
+        "prompt": "A hummingbird hovering at a red flower, slow motion",
+        "model": "seedance-2.5",
+        "duration_s": 5,
+        "aspect": "16:9",
+        "mode": "default",
+        "audio": true,
+        "provider": "remerged",
+        "api_key": ""
+      }
+    },
+    "3": {
+      "class_type": "RemergedAccount",
+      "inputs": {
+        "provider": "remerged",
+        "api_key": ""
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+[project]
+name = "comfyui-remerged"
+version = "1.1.0"
+description = "ComfyUI nodes for AI video APIs - Remerged built in, any OpenAPI 3.1 service via a provider profile"
+readme = "README.md"
+requires-python = ">=3.8"
+license = { file = "LICENSE" }
+keywords = ["comfyui", "remerged", "video", "ai", "text-to-video", "openapi"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Topic :: Multimedia :: Video",
+]
+
+# No runtime dependencies on purpose: the client uses the standard library.
+dependencies = []
+
+[project.urls]
+Homepage = "https://remerged.ai/developers"
+
+[tool.comfy]
+PublisherId = "remerged"
+DisplayName = "Remerged"
+Icon = ""

@@ -1,0 +1,7 @@
+# No third-party packages are required.
+#
+# The client uses the Python standard library (urllib) and only prefers
+# `requests` when it happens to already be installed, which ComfyUI usually
+# ships. Uncomment the line below if you would rather make it explicit.
+#
+# requests>=2.25
