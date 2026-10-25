@@ -20,7 +20,7 @@ different API.
 
 ```bash
 cd ComfyUI/custom_nodes
-git clone <this-repo> comfyui-remerged
+git clone https://github.com/anr2me/comfyui-remerged.git
 # or copy the comfyui-remerged folder here
 ```
 
