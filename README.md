@@ -1,6 +1,6 @@
 # ComfyUI nodes for AI video APIs
 
-Bring [Remerged](https://remerged.ai)'s AI video models into ComfyUI — and any
+Bring [Remerged](https://remerged.ai/r/37G9WH)'s AI video models into ComfyUI — and any
 other service that describes itself with an OpenAPI 3.1 document.
 
 Remerged sells AI video at cost: one credit is one US cent. A job made through
